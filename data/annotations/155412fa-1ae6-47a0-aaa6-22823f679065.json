@@ -1,34 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 52,
-      "end_time": 60,
-      "annotation": [
-        {
-          "0": {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          },
-          "children": [
-            {
-              "text": "[Inaudible]"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Inaudible",
-          "category": "Environment"
-        }
-      ],
-      "uuid": "e3e2fef4-b24f-4e0d-ab78-54c280459d65"
-    },
-    {
       "start_time": 346,
       "end_time": 359,
       "annotation": [
