@@ -4195,6 +4195,31 @@
         }
       ],
       "uuid": "b1fb3588-0a1a-4d76-829a-681e08c935f7"
+    },
+    {
+      "start_time": 770,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Genre"
+        },
+        {
+          "tag": "Distortion",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "e7931c9d-dc28-4e6d-81c7-cc222d9676b3"
     }
   ],
   "set": "Default",
